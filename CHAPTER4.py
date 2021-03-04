@@ -3,6 +3,9 @@
 #Python program that checks the value of the boolean
 #variable disaster and prints an appropriate comment:
 
+
+
+print("hans")
 disaster = True
 if disaster:
     print('woe')
